@@ -1,5 +1,5 @@
 """
-Example of a custom component. 
+Example of a custom component.
 
 Example component to target an entity_id to:
  - turn it on at 7AM in the morning
